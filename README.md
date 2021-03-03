@@ -1,4 +1,4 @@
-REMOTE
+"REMOTE"
 # gitconflit
 
 bonjour bonjour !
