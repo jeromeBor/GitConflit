@@ -1,3 +1,4 @@
+"LOCAL"
 # gitconflit
 
 bonjour bonjour !
